@@ -1,5 +1,4 @@
-<a href="https://app.daily.dev/zakriayasir"><img src="https://api.daily.dev/devcards/e14086812284499b9ad9f6d964e4d9bb.png?r=yuk" width="400" alt="Zakria Yasir's Dev Card"/></a>
-<!-- Title -->
+<a href="https://app.daily.dev/zakriayasir"><img src="https://api.daily.dev/devcards/e14086812284499b9ad9f6d964e4d9bb.png?r=df8" width="400" alt="Zakria Yasir's Dev Card"/></a><!-- Title -->
 # Hey! 👋
 
 <!-- Introduction -->
